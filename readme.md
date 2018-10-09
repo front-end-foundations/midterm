@@ -1,6 +1,6 @@
 # Front End Foundations Midterm
 
-Select two layouts from the samples.
+Select two layouts from the provided images.
 
 Write HTML for the content (.txt files for the poem contents are provided for convenience).
 
