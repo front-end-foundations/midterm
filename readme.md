@@ -11,3 +11,5 @@ Since these are poems and line breaks are important, you should use the css `whi
 You can use `flexbox` to create columns. You can also use negative margins, floats or the `display: relative` / `display: absolute` techniques we have covered in class.
 
 In some cases you may wish to consider the CSS [columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns) property as well.
+
+I may be difficult at this point but you should consider what happens to your layout on a smaller screen (responsive design).
